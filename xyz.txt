@@ -6,7 +6,7 @@ int main()
 {
 	printf("Welcome to the STTP 2020 ");
  	printf("Welcome to the STTP 2020 after lunch ");
- 	
+ 	printf("updated on the github");
 	return 0;
 	
 }
