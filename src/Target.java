@@ -52,7 +52,7 @@ public class Target {
 			al.add(sc.nextInt());
 		}		
 		// getting the target from the user
-		System.out.println("Enter the target number which is sum of any two number from above two number");
+		System.out.println("Enter the target which is sum of any two number from above two number");
 		target=sc.nextInt();
 		
 		// now processing the list to find target as sum of two number
